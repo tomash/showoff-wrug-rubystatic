@@ -1,0 +1,9 @@
+[ 
+  {"section":"intro"},
+  {"section":"static-ruby"},
+  {"section":"flog"},
+  {"section":"flay"},
+  {"section":"heckle"},
+  {"section":"reek"},
+  {"section":"outro"}
+]
