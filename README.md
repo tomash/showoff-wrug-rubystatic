@@ -1,8 +1,10 @@
 # Wprowadzenie
 
-Slajdy z mojej prezentacji o Ruby oraz Ruby On Rails.
+Slajdy z mojej prezentacji o narzędziach do statycznej analizy kodu Ruby.
 
-Prezentowane podczas spotkania [Akademii Inżyniera Szlif](http://szlif.edu.pl), [3. marca 2010](http://www.szlif.edu.pl/2010/02/ruby-on-rails-2/). 
+Prezentowane podczas majowego (06-05-2010) spotkania [Warsaw Ruby Users Group](http://wrug.eu). 
+
+[Strona samego spotkania](http://wrug.eu/2010/4/29/2010-05-spotkanie-majowe)
 
 # Oglądanie
 
@@ -11,7 +13,7 @@ To jest prezentacja dla aplikacji [ShowOff](http://github.com/schacon/showoff).
 Aby ją obejrzeć, musisz zainstalować i uruchomić w jej katalogu ShowOff: 
 
     $ gem install showoff
-    $ git clone git://github.com/tomash/showoff-ruby-szlif.git
+    $ git clone git://github.com/tomash/showoff-unicorn.git
     $ cd showoff-unicorn
     $ showoff serve
 
