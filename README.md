@@ -13,7 +13,7 @@ To jest prezentacja dla aplikacji [ShowOff](http://github.com/schacon/showoff).
 Aby ją obejrzeć, musisz zainstalować i uruchomić w jej katalogu ShowOff: 
 
     $ gem install showoff
-    $ git clone git://github.com/tomash/showoff-unicorn.git
+    $ git clone git://github.com/tomash/showoff-wrug-rubystatic.git
     $ cd showoff-unicorn
     $ showoff serve
 
